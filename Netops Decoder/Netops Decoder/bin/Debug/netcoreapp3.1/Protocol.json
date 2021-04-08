@@ -1,0 +1,514 @@
+{
+  "SensorFunctions": [
+    {
+      "Value": "0x00",
+      "Description": "N/A",
+      "PayloadLength": "N/A"
+    },
+    {
+      "Value": "0x01",
+      "Description": "Shaking Sensor",
+      "PayloadLength": "6"
+    },
+    {
+      "Value": "0x02",
+      "Description": "2 Plane Tilt Detection Sensor",
+      "PayloadLength": "4"
+    },
+    {
+      "Value": "0x03",
+      "Description": "Vibration Sensor",
+      "PayloadLength": "2"
+    },
+    {
+      "Value": "0x04",
+      "Description": "1 Phase Current Sensor",
+      "PayloadLength": "2"
+    },
+    {
+      "Value": "0x05",
+      "Description": "3 Phase Current Sensor",
+      "PayloadLength": "6"
+    },
+    {
+      "Value": "0x06",
+      "Description": "Dry Contact Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x07",
+      "Description": "Asset Tracking Sensor",
+      "PayloadLength": "To be defined"
+    },
+    {
+      "Value": "0x08",
+      "Description": "Geofence Sensor",
+      "PayloadLength": "To be defined"
+    },
+    {
+      "Value": "0x09",
+      "Description": "Temperature Sensor",
+      "PayloadLength": "2"
+    },
+    {
+      "Value": "0x0A",
+      "Description": "Humidity Sensor",
+      "PayloadLength": "2"
+    },
+    {
+      "Value": "0x0B",
+      "Description": "Temperature & Humidity Sensor",
+      "PayloadLength": "3"
+    },
+    {
+      "Value": "0x0C",
+      "Description": "Door Opening - Closing Counter Sensor",
+      "PayloadLength": "4"
+    },
+    {
+      "Value": "0x0D",
+      "Description": "3 Plane Tilt Detection Sensor",
+      "PayloadLength": "6"
+    },
+    {
+      "Value": "0x0E",
+      "Description": "1 Button Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x0F",
+      "Description": "3 Button Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x010",
+      "Description": "Door Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x011",
+      "Description": "RTD Temperature Sensor",
+      "PayloadLength": "2"
+    },
+    {
+      "Value": "0x012",
+      "Description": "PIR Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x013",
+      "Description": "Distance Sensor",
+      "PayloadLength": "2"
+    },
+    {
+      "Value": "0x014",
+      "Description": "Ambient Light Sensor",
+      "PayloadLength": "4"
+    },
+    {
+      "Value": "0x015",
+      "Description": "Sound Level Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x016",
+      "Description": "Glass Break Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x017",
+      "Description": "1 Phase Mains Voltage Sensor",
+      "PayloadLength": "2"
+    },
+    {
+      "Value": "0x018",
+      "Description": "3 Phase Mains Voltage Sensor",
+      "PayloadLength": "6"
+    },
+    {
+      "Value": "0x019",
+      "Description": "Metal Detection Sensor",
+      "PayloadLength": "To be defined"
+    },
+    {
+      "Value": "0x01A",
+      "Description": "Compass Sensor",
+      "PayloadLength": "To be defined"
+    },
+    {
+      "Value": "0x01B",
+      "Description": "RS485 Sensor",
+      "PayloadLength": "To be defined"
+    },
+    {
+      "Value": "0x01C",
+      "Description": "1 Phase Mains Voltage Sensor with Power Cut Detection",
+      "PayloadLength": "2"
+    },
+    {
+      "Value": "0x01D",
+      "Description": "3 Phase Mains Voltage Sensor with Power Cut Detection",
+      "PayloadLength": "6"
+    },
+    {
+      "Value": "0x01E",
+      "Description": "BLE Signal Strength",
+      "PayloadLength": "To be defined"
+    },
+    {
+      "Value": "0x01F",
+      "Description": "Soil Moisture Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x020",
+      "Description": "Manhole Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x021",
+      "Description": "Magnetic Field Sensor",
+      "PayloadLength": "9"
+    },
+    {
+      "Value": "0x022",
+      "Description": "Power Line Analyzer Sensor",
+      "PayloadLength": "172"
+    },
+    {
+      "Value": "0x023",
+      "Description": "Barometric Pressure Sensor",
+      "PayloadLength": "3"
+    },
+    {
+      "Value": "0x024",
+      "Description": "Tilt Switch Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x025",
+      "Description": "Parking Lot Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x026",
+      "Description": "3 Axis Accelerometer Sensor",
+      "PayloadLength": "6"
+    },
+    {
+      "Value": "0x027",
+      "Description": "6 Axis Accelerometer Sensor ",
+      "PayloadLength": "12"
+    },
+    {
+      "Value": "0x028",
+      "Description": "Power Line Analyzer Sensor (Model 2)",
+      "PayloadLength": "224"
+    },
+    {
+      "Value": "0x029",
+      "Description": "Water Flooding Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x02A",
+      "Description": "Water Level Threshold Sensor",
+      "PayloadLength": "1"
+    },
+    {
+      "Value": "0x02B",
+      "Description": "Park Calibration Sensor",
+      "PayloadLength": "Not for customer use"
+    },
+    {
+      "Value": "0x02C",
+      "Description": "Waste Bin Sensor",
+      "PayloadLength": "2"
+    },
+    {
+      "Value": "0x02D",
+      "Description": "UV Light Sensor",
+      "PayloadLength": "To be defined"
+    },
+    {
+      "Value": "0x02E",
+      "Description": "Barometric Pressure & Temperature & Humidity Sensor",
+      "PayloadLength": "To be defined"
+    },
+    {
+      "Value": "0x02F",
+      "Description": "Modbus Sensor",
+      "PayloadLength": "Customer specific length"
+    }
+  ],
+  "DeviceInformationParameters": [
+    {
+      "Value": "0x00",
+      "Description": "Number of Transmits",
+      "PayloadLength": 4
+    },
+    {
+      "Value": "0x001",
+      "Description": "Number of Slots",
+      "PayloadLength": 1
+    },
+    {
+      "Value": "0x002",
+      "Description": "Plugged Slots",
+      "PayloadLength": 1
+    },
+    {
+      "Value": "0x003",
+      "Description": "Serial Number",
+      "PayloadLength": 4
+    },
+    {
+      "Value": "0x004",
+      "Description": "Connectivity FW Version",
+      "PayloadLength": 2
+    },
+    {
+      "Value": "0x005",
+      "Description": "SW Version",
+      "PayloadLength": 2
+    },
+    {
+      "Value": "0x006",
+      "Description": "HW Version",
+      "PayloadLength": 2
+    },
+    {
+      "Value": "0x007",
+      "Description": "Cell ID",
+      "PayloadLength": 4
+    },
+    {
+      "Value": "0x08",
+      "Description": "Signal Power",
+      "PayloadLength": 1
+    },
+    {
+      "Value": "0x009",
+      "Description": "IMEI",
+      "PayloadLength": 7
+    },
+    {
+      "Value": "0x00A",
+      "Description": "IMSI",
+      "PayloadLength": 7
+    },
+    {
+      "Value": "0x00B",
+      "Description": "Frequency",
+      "PayloadLength": 2
+    },
+    {
+      "Value": "0x00C",
+      "Description": "EDRX Mode Support",
+      "PayloadLength": 1
+    },
+    {
+      "Value": "0x00D",
+      "Description": "Number of Connection Trials",
+      "PayloadLength": 1
+    },
+    {
+      "Value": "0x00E",
+      "Description": "PSM Periodic Timer Value",
+      "PayloadLength": 1
+    },
+    {
+      "Value": "0x00F",
+      "Description": "PSM Active Timer Value",
+      "PayloadLength": 1
+    },
+    {
+      "Value": "0x010",
+      "Description": "Battery Level",
+      "PayloadLength": 1
+    },
+    {
+      "Value": "0x011",
+      "Description": "Alive Message Period",
+      "PayloadLength": 4
+    }
+  ],
+  "SensorBoardTypes": [
+    {
+      "Value": "0x00",
+      "Description": "Used to indicate 'Device Information Parameter'"
+    },
+    {
+      "Value": "0x01",
+      "Description": "3 Axis Accelerometer Sensor Board"
+    },
+    {
+      "Value": "0x02",
+      "Description": "Current Transformer Sensor Board"
+    },
+    {
+      "Value": "0x03",
+      "Description": "Dry Contact Sensor Board"
+    },
+    {
+      "Value": "0x04",
+      "Description": "GPS Sensor Board"
+    },
+    {
+      "Value": "0x05",
+      "Description": "Temperature & Humidity Sensor Board"
+    },
+    {
+      "Value": "0x06",
+      "Description": "6 Axis Accelerometer Sensor Board"
+    },
+    {
+      "Value": "0x07",
+      "Description": "Button Sensor Board"
+    },
+    {
+      "Value": "0x08",
+      "Description": "RTD Sensor Board"
+    },
+    {
+      "Value": "0x09",
+      "Description": "PIR Sensor Board"
+    },
+    {
+      "Value": "0x0A",
+      "Description": "Laser Distance Sensor Board"
+    },
+    {
+      "Value": "0x0B",
+      "Description": "Ambient Light Sensor Board"
+    },
+    {
+      "Value": "0x0C",
+      "Description": "Piezo Sensor Board"
+    },
+    {
+      "Value": "0x0D",
+      "Description": "Sound Sensor Board"
+    },
+    {
+      "Value": "0x0E",
+      "Description": "Voltage Sensor Board"
+    },
+    {
+      "Value": "0x0F",
+      "Description": "Magnetometer Sensor Board"
+    },
+    {
+      "Value": "0x10",
+      "Description": "RS485 Sensor Board"
+    },
+    {
+      "Value": "0x11",
+      "Description": "Voltage & Power Cut Sensor Board"
+    },
+    {
+      "Value": "0x12",
+      "Description": "BLE Signal Strength Sensor Board"
+    },
+    {
+      "Value": "0x013",
+      "Description": "Reed Switch Sensor Board"
+    },
+    {
+      "Value": "0x14",
+      "Description": "Soil Moisture Sensor Board"
+    },
+    {
+      "Value": "0x015",
+      "Description": "Tilt Switch Sensor Board"
+    },
+    {
+      "Value": "0x016",
+      "Description": "Energy Meter Sensor Board"
+    },
+    {
+      "Value": "0x017",
+      "Description": "Barometric Pressure Sensor Board"
+    },
+    {
+      "Value": "0x018",
+      "Description": "Ultrasonic Sensor Board"
+    },
+    {
+      "Value": "0x19",
+      "Description": "UV Light Sensor Board"
+    },
+    {
+      "Value": "0x1A",
+      "Description": "Prototyping Board"
+    },
+    {
+      "Value": "0x1B",
+      "Description": "Relay Board"
+    }
+  ],
+  "PeriodicTimerValue": [
+    {
+      "BitValue": "000",
+      "Timer": "Minute",
+      "Value": "10"
+    },
+    {
+      "BitValue": "001",
+      "Timer": "Hour",
+      "Value": "1"
+    },
+    {
+      "BitValue": "010",
+      "Timer": "Hours",
+      "Value": "10"
+    },
+    {
+      "BitValue": "011",
+      "Timer": "Seconds",
+      "Value": "2"
+    },
+    {
+      "BitValue": "100",
+      "Timer": "Seconds",
+      "Value": "30"
+    },
+    {
+      "BitValue": "101",
+      "Timer": "Minute",
+      "Value": "1"
+    },
+    {
+      "BitValue": "110",
+      "Timer": "Hours",
+      "Value": "320"
+    },
+    {
+      "BitValue": "111",
+      "Timer": "Deactivate",
+      "Value": "0"
+    }
+  ],
+  "ActiveTimerValue": [
+    {
+      "BitValue": "000",
+      "Timer": "Seconds",
+      "Value": "2"
+    },
+    {
+      "BitValue": "001",
+      "Timer": "Minute",
+      "Value": "1"
+    },
+    {
+      "BitValue": "010",
+      "Timer": "Minutes",
+      "Value": "6"
+    },
+    {
+      "BitValue": "111",
+      "Timer": "Deactivate",
+      "Value": "0"
+    }
+  ]
+}

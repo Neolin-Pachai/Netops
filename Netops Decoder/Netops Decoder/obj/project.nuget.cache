@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lddDtMxws6k0YsAj3niVD2WuyrfzEai8txG4NOwAKX9XPuMOAFfzgcTz7jf9dIbXGL2SF9IPmWCRksOYHAzRig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NeolinPachai\\source\\repos\\Netops Decoder\\Netops Decoder\\Netops Decoder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NeolinPachai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

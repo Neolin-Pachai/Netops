@@ -1,0 +1,15 @@
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\bin\Debug\netcoreapp3.1\Netops Decoder.exe
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\bin\Debug\netcoreapp3.1\Netops Decoder.deps.json
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\bin\Debug\netcoreapp3.1\Netops Decoder.runtimeconfig.json
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\bin\Debug\netcoreapp3.1\Netops Decoder.runtimeconfig.dev.json
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\bin\Debug\netcoreapp3.1\Netops Decoder.dll
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\bin\Debug\netcoreapp3.1\Netops Decoder.pdb
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\obj\Debug\netcoreapp3.1\Netops Decoder.csprojAssemblyReference.cache
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\obj\Debug\netcoreapp3.1\Netops Decoder.AssemblyInfoInputs.cache
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\obj\Debug\netcoreapp3.1\Netops Decoder.AssemblyInfo.cs
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\obj\Debug\netcoreapp3.1\Netops Decoder.csproj.CoreCompileInputs.cache
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\obj\Debug\netcoreapp3.1\Netops Decoder.dll
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\obj\Debug\netcoreapp3.1\Netops Decoder.pdb
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\obj\Debug\netcoreapp3.1\Netops Decoder.genruntimeconfig.cache
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NeolinPachai\source\repos\Netops Decoder\Netops Decoder\obj\Debug\netcoreapp3.1\Netops Decoder.csproj.CopyComplete
